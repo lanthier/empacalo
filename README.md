@@ -1,0 +1,2 @@
+# empacalo
+Minimal JavaScript bundler
